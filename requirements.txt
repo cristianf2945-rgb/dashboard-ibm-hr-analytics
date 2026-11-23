@@ -1,4 +1,3 @@
-os
 kagglehub
 scipy.stats
 streamlit
