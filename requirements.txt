@@ -1,9 +1,7 @@
 kagglehub
-scipy.stats
 streamlit
 pandas
 numpy
 matplotlib
 seaborn
 scipy
-matplotlib.pyplot
